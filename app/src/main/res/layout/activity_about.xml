@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/bay"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginBottom="7dp"
+        android:src="@drawable/bay" />
+
+    <TextView
+        android:id="@+id/nama_coder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="7dp"
+        android:text="@string/m_bayu_samudera"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="@string/bayusamudera9a_gmail_com"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        android:text="@string/tentang_aplikasi_ini"
+        android:textAlignment="center"
+        android:background="#F8F8FF"/>
+
+    <TextView
+        android:id="@+id/penjelasan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        android:padding="@dimen/cardview_default_elevation"
+        android:text="@string/penjelasan"
+        android:textAlignment="center"
+        android:background="#F8F8FF"/>
+
+
+</LinearLayout>

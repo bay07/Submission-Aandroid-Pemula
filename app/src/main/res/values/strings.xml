@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SenTa</string>
+    <string name="asal_senjata">Asal Senjata :</string>
+    <string name="nama_senjata">Nama Senjata</string>
+    <string name="tempat">Asal Senjata</string>
+    <string name="detail">Detail</string>
+    <string name="todo">TODO</string>
+    <string name="about">about</string>
+    <string name="m_bayu_samudera">M Bayu Samudera</string>
+    <string name="bayusamudera9a_gmail_com">bayusamudera9a@gmail.com</string>
+    <string name="tentang_aplikasi_ini">Tentang Aplikasi Ini</string>
+    <string name="penjelasan">Aplikasi ini memuat tentang Senjata- senjata tradisional di Nusantara</string>
+
+
+</resources>
